@@ -10,7 +10,7 @@
 	
 </script>
 <body>
-	<h1>hello</h1>
+	<h1>hello 연습</h1>
 	<div align="center">
 	</div>
 </body>
